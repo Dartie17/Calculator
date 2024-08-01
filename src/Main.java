@@ -4,7 +4,9 @@ public class Main {
 
         Calculator calculator = new Calculator();
 
-        System.out.println("5 + 8 = " + calculator.add(5, 8));
+        System.out.println("10 + 5 = " + calculator.add(10, 5));
+        System.out.println("10 + 10 = " + calculator.add(10, 10));
+
 
     }
 }
